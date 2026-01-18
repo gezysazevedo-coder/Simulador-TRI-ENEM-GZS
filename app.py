@@ -7,7 +7,7 @@ from tri_engine import TRIEngine
 
 # Configuração da página
 st.set_page_config(
-    page_title="Corretor TRI ENEM",
+    page_title="SIMULADOR TRI ENEM - Prof.Gezys",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
