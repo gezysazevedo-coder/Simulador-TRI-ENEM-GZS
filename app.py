@@ -29,7 +29,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título e Descrição
-st.title("🎯 SIMULADO TRI/ENEM - Prof.Gezys")
+st.title("🎯 SIMULADOR TRI/ENEM - Prof.Gezys")
 st.markdown("""
 Ferramenta de análise de desempenho baseada em **Teoria de Resposta ao Item (TRI)**.
 Descubra sua nota estimada e identifique padrões de coerência pedagógica.
